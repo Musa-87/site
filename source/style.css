@@ -72,6 +72,7 @@ body{
 }
 
 .block{
+  color: green;
   width: 100%;
   height: 500px;
   font-size: 100px;
